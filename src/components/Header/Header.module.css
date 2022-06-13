@@ -1,0 +1,29 @@
+body {
+  width: 770px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #0000000d;
+  font-family: "Gilroy", 600;
+}
+
+img {
+  height: 100%;
+}
+
+.header ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  font-size: 24px;
+  width: 40%;
+}
+
+.header a {
+  color: #003399;
+  text-decoration: none;
+}

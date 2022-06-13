@@ -1,0 +1,53 @@
+.container {
+  text-align: center;
+}
+
+.count {
+  font-size: 288px;
+  color: #f27c0f;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+button {
+  font-size: 24px;
+  padding: 15px 44px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.incr {
+  color: #fff;
+  background: #003399;
+  border: 2px solid #003399;
+}
+.incr:hover {
+  color: #003399;
+  background: #fff;
+  border: 2px solid #003399;
+}
+
+.decr {
+  color: #fff;
+  background: #f27c0f;
+  border: 2px solid #f27c0f;
+}
+
+.decr:hover {
+  color: #f27c0f;
+  background: #fff;
+  border: 2px solid #f27c0f;
+}
+
+.reset {
+  background: #e5e5e5;
+  border: 2px solid #e5e5e5;
+}
+.reset:hover {
+  background: #fff;
+  border: 2px solid #000;
+}
