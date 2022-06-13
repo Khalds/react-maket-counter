@@ -9,13 +9,13 @@ export default function Header() {
         <img src={logoHeader} alt="" />
         <ul>
           <li>
-            <a href="№">Главная</a>
+            <a href="#">Главная</a>
           </li>
           <li>
-            <a href="№">О нас</a>
+            <a href="#">О нас</a>
           </li>
           <li>
-            <a href="№">Контакты</a>
+            <a href="#">Контакты</a>
           </li>
         </ul>
       </div>
